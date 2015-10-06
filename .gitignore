@@ -1,0 +1,23 @@
+# private settings
+.salesforce
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# libs
+lib-cov
+.lock-wscript
+build/Release
+node_modules
+
+#ide
+.idea
+
+#ionic
