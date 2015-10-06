@@ -32,7 +32,6 @@ ionic platform add {platform}
 
 ```
 ionic build {platform}
-
 ```
 
 3) Start project
@@ -47,7 +46,6 @@ ionic emulate {platform}
 
 ```shell
 cd www
-
 ```
 
 2) Run project locally
