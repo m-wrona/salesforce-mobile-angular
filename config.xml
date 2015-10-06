@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.myproject842991" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>myproject</name>
+  <name>SalesForce-mobile-ionic</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Sample project for SalesForce using Ionic and AngularJS.
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
-    </author>
+  <author email="no@unknown.com" href="http://ionicframework.com/">
+      Seed project
+  </author>
   <content src="index.html"/>
   <access origin="*"/>
   <preference name="webviewbounce" value="false"/>
