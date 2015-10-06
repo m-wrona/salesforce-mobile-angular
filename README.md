@@ -33,13 +33,19 @@ Available platforms: android, ios
 ionic platform add {platform}
 ```
 
-2) Build project
+2) Generate resources
+
+```
+ionic resources
+```
+
+3) Build project
 
 ```
 ionic build {platform}
 ```
 
-3) Start project
+4) Start project
 
 ```
 ionic emulate {platform}
