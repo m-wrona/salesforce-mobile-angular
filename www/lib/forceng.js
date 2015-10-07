@@ -20,7 +20,7 @@ angular.module('forceng', [])
             oauth,
 
         // Only required when using REST APIs in an app hosted on your own server to avoid cross domain policy issues
-            proxyURL = location.protocol == 'https:' ? 'https://localhost/services' : 'http://localhost:8200',
+            proxyURL = location.protocol == 'https:' ? 'https://localhost' : 'http://localhost:8200',
 
         // By default we store fbtoken in memory. This can be overridden in init()
             tokenStore = {},
