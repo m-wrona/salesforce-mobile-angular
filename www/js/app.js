@@ -27,6 +27,9 @@ angular.module('starter', ['ionic', 'forceng', 'starter.controllers'])
     })
 
     .config(function ($stateProvider, $urlRouterProvider) {
+
+        $urlRouterProvider.otherwise("/contactlist");
+
         $stateProvider
 
             .state('app', {
