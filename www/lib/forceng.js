@@ -11,7 +11,7 @@ angular.module('forceng', [])
         var loginURL = 'https://login.salesforce.com',
 
         // The Connected App client Id
-            appId = '3MVG9fMtCkV6eLheIEZplMqWfnGlf3Y.BcWdOf1qytXo9zxgbsrUbS.ExHTgUPJeb3jZeT8NYhc.hMyznKU92',
+            appId = '3MVG9Rd3qC6oMalUIqMJZE4DpiGR6KkPBEwYRaqlzDPzVnnh3e.KKxIcFVlOI86R9mV905MnQAc0hrC4BN_eF',
 
         // The force.com API version to use. Default can be overriden in login()
             apiVersion = 'v32.0',
