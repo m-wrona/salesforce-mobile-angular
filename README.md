@@ -12,6 +12,7 @@ Project created based on tutorials and found meterials regarding SalesForce.
 * ionic
 * cordova
 * mobile SDK (android, ios)
+* [SalesForce mobile SDK](https://github.com/forcedotcom/SalesforceMobileSDK-Android)
 
 ## Development
 
