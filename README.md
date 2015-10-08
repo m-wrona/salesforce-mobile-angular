@@ -15,7 +15,13 @@ Project created based on tutorials and found meterials regarding SalesForce.
 
 ## Set-up
 
-1) Salesforce OAuth plugin:
+1) Cordova plugins
+
+```
+ionic state restore
+```
+
+2) Salesforce OAuth plugin:
 
 ```
 cordova plugin add https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin
