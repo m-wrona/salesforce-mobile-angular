@@ -13,45 +13,39 @@ Project created based on tutorials and found meterials regarding SalesForce.
 * cordova
 * mobile SDK (android, ios)
 
-## Set-up
+## Development
 
-1) Cordova plugins
+##### Mobile
+
+Available Ionic platforms: android, ios
+
+1) Install cordova plugins & initialize platforms
+
+Install all needed dependencies based on package.json definition.
 
 ```
 ionic state restore
 ```
 
-2) Salesforce OAuth plugin:
-
-```
-cordova plugin add https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin
-```
-
-## Development
-
-##### Mobile
-
-Available platforms: android, ios
-
-1) Add your platform to project
+2) Add your platform to project (optional)
 
 ```
 ionic platform add {platform}
 ```
 
-2) Generate resources
+3) Generate resources
 
 ```
 ionic resources
 ```
 
-3) Build project
+4) Build project
 
 ```
 ionic build {platform}
 ```
 
-4) Start project
+5) Start project
 
 ```
 ionic emulate {platform}
