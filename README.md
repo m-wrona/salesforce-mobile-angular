@@ -72,3 +72,11 @@ Then check your [browser](http://localhost:8200). Application will be run on por
 ## Salesforce
 
 [REST API](http://www.salesforce.com/us/developer/docs/api_rest/api_rest.pdf)
+
+## Android manifest
+
+Permissions to be added to manifest in case of any troubles:
+
+```
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+```

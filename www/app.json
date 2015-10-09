@@ -2,8 +2,7 @@
   "plugins": [
     "org.apache.cordova.device",
     "org.apache.cordova.console",
-    "com.ionic.keyboard",
-    "cordova.js"
+    "com.ionic.keyboard"
   ],
   "sass": false
 }
